@@ -1,0 +1,76 @@
+{
+  "userExist": {
+      "activityCode": 2001,
+      "responseMessage": "User does not exist(2001)"
+  },
+  "userNotExist": {
+      "activityCode": 2001,
+      "responseMessage": "User does not exist(2001)"
+  },
+  "existingUserSuccess": {
+      "activityCode": 2001,
+      "responseMessage": "User does not exist(2001)"
+  },
+  "newUserSuccess": {
+      "activityCode": 2001,
+      "responseMessage": "User does not exist(2001)"
+  },
+  "registredUser": {
+      "activityCode": 1001,
+      "responseMessage": "Sorry! OTP does not match(1001)"
+  },
+  "userLocked": {
+      "activityCode": 1001,
+      "responseMessage": "Sorry! OTP does not match(1001)"
+  },
+  "invalidRole": {
+      "activityCode": 1001,
+      "responseMessage": "Sorry! OTP does not match(1001)"
+  },
+  "deviceLocked": {
+      "activityCode": 1001,
+      "responseMessage": "Sorry! OTP does not match(1001)"
+  },
+  "otpSuccess": {
+      "responseMessage": "Sorry! OTP does not match(1001)",
+      "activityCode": 1001
+  },
+  "otpFail": {
+      "responseMessage": "Sorry! OTP does not match(1001)",
+      "activityCode": 1001
+  },
+  "otpExpired": {
+      "responseMessage": "Sorry! OTP does not match(1001)",
+      "activityCode": 1001
+  },
+  "OtpMaxAttemptsExceeded": {
+      "responseMessage": "Sorry! OTP does not match(1001)",
+      "activityCode": 1001
+  },
+  "businessError": {
+      "otp": {
+          "activityCode": 1001,
+          "responseMessage": "Sorry! OTP does not match(1001)"
+      },
+      "mobileNumber": {
+          "activityCode": 1001,
+          "responseMessage": "Sorry! OTP does not match(1001)"
+      },
+      "step": {
+          "activityCode": 1001,
+          "responseMessage": "Sorry! OTP does not match(1001)"
+      },
+      "operatorId": {
+          "activityCode": 1001,
+          "responseMessage": "Sorry! OTP does not match(1001)"
+      },
+      "referenceId": {
+          "activityCode": 1001,
+          "responseMessage": "Sorry! OTP does not match(1001)"
+      },
+      "pin": {
+          "activityCode": 1001,
+          "responseMessage": "Sorry! OTP does not match(1001)"
+      }
+  }
+}

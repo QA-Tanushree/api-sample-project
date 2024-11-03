@@ -1,0 +1,18 @@
+{
+  "test": {
+    "mobileNumber": "01964575962",
+    "lockUser": "01964575913",
+    "invalidRole": "01964575912",
+    "otp": "1234",
+    "pin": "UIRUIRU8787458h874587hfheu",
+    "deviceId": "pixel",
+    "negDeviceId": "pixel",
+    "lockDevice": "lockDevicevalue"
+  },
+  "live": {
+    "mobileNumber": "01912345678",
+    "lockUser": "01964575912",
+    "deviceId": "device_id"
+  },
+  "referenceId": "snsilgcrajbzdbiq"
+}
